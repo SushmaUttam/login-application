@@ -1,0 +1,60 @@
+.error-label {
+  color: red;
+}
+
+.login-container {
+  text-align: left;
+}
+
+.input {
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 100%;
+  height: 50px;
+  margin-top: 1%;
+  font-size: large;
+}
+
+input {
+  padding: 3%;
+  box-sizing: border-box;
+}
+
+.field {
+  margin-bottom: 5%;
+}
+
+.submit-btn {
+  border: none !important;
+  font-size: 17px;
+  background-color: blue;
+  color: white;
+}
+
+.submit-btn:disabled {
+  background-color: #c5d9fd;
+  color: blue;
+}
+
+.placeholder {
+  position: absolute;
+  top: 273px;
+  right: 20px;
+  margin: auto;
+  font-size: 20px;
+}
+
+.sso {
+  position: absolute;
+  padding-top: 50px;
+  text-align: center;
+  width: 100%;
+  color: blue;
+}
+
+.failure {
+  position: absolute;
+  padding-top: 20px;
+  text-align: center;
+  width: 100%;
+}
